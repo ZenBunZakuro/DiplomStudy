@@ -1,0 +1,22 @@
+.content {
+    width: 90% !important;
+    margin: auto;
+    padding: 10px 0 0 0;
+}
+
+.plusContent {
+    padding: 0 10px 0 10px;
+}
+
+.crossPlus {
+    text-align: center;
+    font-size: 200px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+.plusText {
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}

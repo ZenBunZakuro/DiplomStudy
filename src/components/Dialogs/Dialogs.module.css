@@ -1,0 +1,38 @@
+.header h1{
+
+}
+
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems {
+    padding: 10px;
+    background-color: grey;
+    border-radius: 0 10px 10px 0;
+}
+
+.dialogsItems .active {
+    color: blueviolet;
+}
+
+.dialogImg {
+    border-radius: 30px !important;
+    margin: 0 10px 10px 0;
+    background-size: contain !important;
+}
+
+.profileAvatar {
+}
+
+.messages {
+    padding: 10px;
+    background-color: darkgrey;
+    margin-left: 10px;
+    border-radius: 10px 0 0 10px;
+}
+
+.message {
+
+}

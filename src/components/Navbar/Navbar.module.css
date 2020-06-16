@@ -1,0 +1,15 @@
+.icon {
+    transition: 0.4s;
+    width: 50px;
+}
+.icon:hover{
+    margin: 10px 10px 0 10px;
+}
+.burger {
+    background-color: black !important;
+    border-radius: 100px !important;
+}
+
+.activeLink::-moz-focus-inner {
+    border: 0;
+}
